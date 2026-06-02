@@ -4,11 +4,11 @@ go-to: post_event if started = 1; start_menu if started = 0
 
 @start_menu
 new-page: true
-go-to: start_menu_2
+go-to: start_menu_5
 
 = Social Democracy: An Alternate History
 
-@start_menu_2
+@start_menu_5
 
 - @start_1: Start game
 - @modinfo: Mod Info - Last Updated 2026/05/24
