@@ -289,7 +289,7 @@ Q.old_middle_other = 20;
 
 Q.rural_spd = 9;
 Q.rural_kpd = 0;
-Q.rural_z = 5;
+Q.rural_z = 55;
 Q.rural_ddp = 4;
 Q.rural_dvp = 15;
 Q.rural_dnvp = 46;
@@ -307,7 +307,7 @@ Q.unemployed_other = 7;
 
 Q.catholics_spd = 21;
 Q.catholics_kpd = 2;
-Q.catholics_z = 49;
+Q.catholics_z = 100;
 Q.catholics_ddp = 0;
 Q.catholics_dvp = 5;
 Q.catholics_dnvp = 5;
@@ -1271,7 +1271,7 @@ Q.resources = 3;
 Q.dues = 3;
 Q.base_dues = 3;
 Q.rb_strength = 2000;
-Q.z_relation = 41;
+Q.z_relation = 90;
 Q.kpd_relation = 21;
 Q.dvp_relation = 31;
 Q.ddp_relation = 55;

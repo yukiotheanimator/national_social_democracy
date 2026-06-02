@@ -33,7 +33,7 @@ Q.workers_other = 10;
 
 Q.old_middle_spd = 5;
 Q.old_middle_kpd = 0;
-Q.old_middle_z = 5;
+Q.old_middle_z = 50;
 Q.old_middle_ddp= 10;
 Q.old_middle_dvp = 25;
 Q.old_middle_dnvp = 25;
